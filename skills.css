@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h4{
+    padding-top: 10px;
+    color: snow;
+}
+h1{
+    padding-top: 50px;
+}
+.ul{
+    border: 10px;
+    border-color: snow;
+}
+table{
+    width: 50%;
+}
+th,td{
+    border: 1px solid white;
+    padding: 1px;
+    display: grid;
+    
+}
